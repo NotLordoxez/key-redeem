@@ -67,5 +67,4 @@ async def redeem(ctx, key):
                     em = discord.Embed(description=f"Succesfully redeemed the key!", color=0xA601F9)
                     await ctx.respond(embed=em)
                     
-                    
-client.run("MTA0NzU1NjE3OTA2NjM3MjIyNg.GpaTgU.E09D51dvvyJdtNFk1BnTaGtuQyRyiclCKlU4VE")
+client.run("")
